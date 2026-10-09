@@ -57,7 +57,7 @@ Model accuracy: **~89%** on validation data.
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/ai-medical-chatbot.git
+git clone https://github.com/Yalavarthijahnavi2017/ai-medical-chatbot.git
 cd ai-medical-chatbot
 
 # 2️⃣ Create a virtual environment
